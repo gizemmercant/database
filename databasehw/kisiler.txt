@@ -1,0 +1,4 @@
+ISIM, DOWN, UP
+umut, 500, 12000
+hasan, 6000,4500
+ali,120,500
